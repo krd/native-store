@@ -1,0 +1,123 @@
+{
+    "victims": {
+        "victim1": {
+          "id": "victim1",
+          "name": "Victim 1",
+          "avatarURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.femalefirst.co.uk%2Fgames%2Fdestiny-2-coming-october-24-1067287.html&psig=AOvVaw06r_rI5-gZLH4aUvS8l7yc&ust=1616260927025000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICLxanvvO8CFQAAAAAdAAAAABAD",
+          "picks": ["reaper1", "reaper1"],
+          "pickHistory": ["reaper1", "reaper1"]
+        },
+        "victim2": {
+          "id": "victim2",
+          "name": "Victim 2",
+          "avatarURL": "https://webcomicms.net/sites/default/files/clipart/165955/spiderman-face-clipart-165955-4283075.jpg",
+          "picks": ["reaper1", "reaper1"],
+          "pickHistory": ["reaper1", "reaper1"]
+        },
+        "victim3": {
+          "id": "victim3",
+          "name": "Victim 3",
+          "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+          "picks": ["reaper1", "reaper1"],
+          "pickHistory": ["reaper1", "reaper1"]
+        },
+        "victim4": {
+            "id": "victim4",
+            "name": "Victim 4",
+            "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+            "picks": ["reaper1", "reaper1"],
+            "pickHistory": ["reaper1", "reaper1"]
+          },
+          "victim5": {
+            "id": "victim5",
+            "name": "Victim 5",
+            "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+            "picks": ["reaper1", "reaper1"],
+            "pickHistory": ["reaper1", "reaper1"]
+          },
+          "victim6": {
+              "id": "victim6",
+              "name": "Victim 6",
+              "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+              "picks": ["reaper1", "reaper1"],
+              "pickHistory": ["reaper1", "reaper1"]
+            },
+            "victim7": {
+              "id": "victim7",
+              "name": "Victim 7",
+              "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+              "picks": ["reaper1", "reaper1"],
+              "pickHistory": ["reaper1", "reaper1"]
+            },
+            "victim8": {
+              "id": "victim8",
+              "name": "Victim 8",
+              "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+              "picks": ["reaper1", "reaper1"],
+              "pickHistory": ["reaper1", "reaper1"]
+            },
+            "victim9": {
+              "id": "victim9",
+              "name": "Victim 9",
+              "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+              "picks": ["reaper1", "reaper1"],
+              "pickHistory": ["reaper1", "reaper1"]
+            },
+            "victim10": {
+              "id": "victim10",
+              "name": "Victim 10",
+              "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+              "picks": ["reaper1", "reaper1"],
+              "pickHistory": ["reaper1", "reaper1"]
+            }
+      },
+      "reapers": {
+        "reaper1": {
+          "id": "reaper1",
+          "name": "Deathshead",
+          "password": "abc123",
+          "email": "reaper1@gmail.com",
+          "avatarURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.femalefirst.co.uk%2Fgames%2Fdestiny-2-coming-october-24-1067287.html&psig=AOvVaw06r_rI5-gZLH4aUvS8l7yc&ust=1616260927025000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICLxanvvO8CFQAAAAAdAAAAABAD",
+          "pick": "victim1",
+          "pickHistory": ["victim1", "victim1"]
+        },
+        "reaper2": {
+          "id": "reaper2",
+          "name": "Deathdealer",
+          "password": "abc123",
+          "email": "reaper2@gmail.com",
+          "avatarURL": "https://webcomicms.net/sites/default/files/clipart/165955/spiderman-face-clipart-165955-4283075.jpg",
+          "pick": "victim1",
+          "pickHistory": ["victim1", "victim1"]
+        },
+        "reaper3": {
+          "id": "reaper3",
+          "name": "Deadpool",
+          "password": "abc123",
+          "email": "reaper3@gmail.com",
+          "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+          "pick": "victim1",
+          "pickHistory": ["victim1", "victim1"]
+        },
+        "reaper4": {
+            "id": "reaper4",
+            "name": "spooky",
+            "password": "abc123",
+            "email": "reaper4@gmail.com",
+            "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+            "pick": "victim1",
+            "pickHistory": ["victim1", "victim1"]
+          },
+          "reaper5": {
+            "id": "reaper5",
+            "name": "grimm",
+            "password": "abc123",
+            "email": "reaper5@gmail.com",
+            "avatarURL": "http://webcomicms.net/sites/default/files/clipart/129224/batman-icon-129224-6523819.png",
+            "pick": "victim1",
+            "pickHistory": ["victim1", "victim1"]
+          }
+      }
+
+}
+

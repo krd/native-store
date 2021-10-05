@@ -1,0 +1,12 @@
+{
+	"folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.quickSuggestions": true,
+    "editor.snippetSuggestions": "top",
+    "git.ignoreLimitWarning": true,
+  }
+}
