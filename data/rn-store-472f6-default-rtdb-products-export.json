@@ -1,0 +1,75 @@
+{
+  "products":
+{
+  "-MkBAgX9bOv05WHBs7IX" : {
+    "description" : "A red t-shirt, perfect for days with non-red weather.",
+    "imageUrl" : "https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : "29.99",
+    "title" : "Red Shirt for Your Expendable Crew!"
+  },
+  "-MkBAgYdcSziIM8urRh9" : {
+    "description" : "Awesome hardware, crappy keyboard and a hefty price. Buy now before a new one is released!",
+    "imageUrl" : "https://get.pxhere.com/photo/laptop-computer-macbook-mac-screen-water-board-keyboard-technology-air-mouse-photo-airport-aircraft-tablet-aviation-office-black-monitor-keys-graphic-hardware-image-pc-exhibition-multimedia-calculator-vector-water-cooling-floppy-disk-phased-out-desktop-computer-netbook-personal-computer-computer-monitor-electronic-device-computer-hardware-display-device-448748.jpg",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : "2299.99",
+    "title" : "PowerBook"
+  },
+  "-MkBAgZmAoMeLMtxXj6q" : {
+    "description" : "Can be used for role-playing (not the kind of role-playing you're thinking about...",
+    "imageUrl" : "https://cdn.pixabay.com/photo/2015/10/03/02/14/pen-969298_1280.jpg",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : "5.49",
+    "title" : "Pen & Paper in case you are old like me…"
+  },
+  "-MkBAg_d0dQQ3kZhh_2z" : {
+    "description" : "Can also be used for tea!",
+    "imageUrl" : "https://images.pexels.com/photos/160834/coffee-cup-and-saucer-black-coffee-loose-coffee-beans-160834.jpeg?cs=srgb&dl=bean-beans-black-coffee-160834.jpg&fm=jpg",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : "8.99",
+    "title" : "Coffee Mug"
+  },
+  "-MkBAg_ew4bA1Cc2lI_I" : {
+    "description" : "What the content is? Why would that matter? It's a limited edition!",
+    "imageUrl" : "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?cs=srgb&dl=blur-blurred-book-pages-46274.jpg&fm=jpg",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : "15.99",
+    "title" : "The Book - Limited Edition"
+  },
+  "-MkBAg_kIpDOTqr-uDAF" : {
+    "description" : "Fits your red shirt perfectly. To stand on. Not to wear it.",
+    "imageUrl" : "https://images.pexels.com/photos/6292/blue-pattern-texture-macro.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : "99.99",
+    "title" : "Blue Carpet"
+  },
+  "-MkEbYM5cXFMRl2CQXds" : {
+    "description" : "Adkfahsdf",
+    "imageUrl" : "https://images.unsplash.com/photo-1605595988901-3d06601c38ad?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8cVBZc0R6dkpPWWN8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : 333,
+    "title" : "Thank you"
+  },
+  "-MkEefD6OX6Y9QCIlB62" : {
+    "description" : "Scare your friends",
+    "imageUrl" : "https://images.unsplash.com/photo-1611255518888-30feae5f15b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=954&q=80",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : 10000000,
+    "title" : "Scary Face"
+  },
+  "-MkOsvwn8TJMXZ2L2p5e" : {
+    "description" : "Get away… from the island",
+    "imageUrl" : "https://images.unsplash.com/photo-1503925802536-c9451dcd87b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2340&q=80",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : 789.87,
+    "title" : "Island Getaway"
+  },
+  "-Mkxex58m4MbSOK21aFy" : {
+    "description" : "Have a mystery man find and stalk you!",
+    "imageUrl" : "https://images.unsplash.com/photo-1575402473489-5eedc5d87301?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1364&q=80 https://images.unsplash.com/photo-1575402473489-5eedc5d87301?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1364&q=80",
+    "ownerId" : "rnUnfCSIuQeCfU9f8iHUdhVzm8B3",
+    "price" : 1000000,
+    "title" : "Mystery Man"
+  }
+}
+}
